@@ -4,7 +4,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from retrival import get_context
 
-
+#hogaya
 load_dotenv()
 
 st.title("Naive RAG Chatbot")
